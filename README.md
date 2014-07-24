@@ -1,7 +1,7 @@
 Alex-Mouse
 ==========
 
-A project partnering with Not Impossible Labs, Sparkfun, and others to develop a low-cost mouse solution for quadriplegics
+A project partnering with [Not Impossible Labs](http://www.notimpossiblelabs.com), [Sparkfun](http://www.sparkfun.com) , and others to develop a low-cost mouse solution for quadriplegics.
 
 This project is utilizing open-source software and hardware project in order to arrive at a solution that is customizable to the users needs and is low in cost.
 
